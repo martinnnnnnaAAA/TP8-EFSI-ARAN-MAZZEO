@@ -1,0 +1,17 @@
+.Input {
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    width: 100%;
+    max-width: 350px;
+    margin: 0 auto 20px; 
+    transition: border-color 0.3s ease;
+    display: block;
+  }
+  
+  .Input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  

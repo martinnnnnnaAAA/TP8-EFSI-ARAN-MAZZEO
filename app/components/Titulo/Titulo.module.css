@@ -1,0 +1,14 @@
+.Titulo {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #007bff;
+    font-family: 'Helvetica', sans-serif;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    .Titulo {
+      color: #4a90e2;
+    }
+  }
+  
